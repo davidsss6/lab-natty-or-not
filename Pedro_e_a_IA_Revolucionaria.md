@@ -1,7 +1,7 @@
 
 # Pedro e a IA Revolucionária: Apresentaçao
 
-[Antes de ler o livro, assista ao vídeo da história aqui](https://github.com/davidsss6/lab-natty-or-not/blob/main/video.mp4) 
+[Antes de ler o livro, assista a minha apresentação em vídeo aqui](https://github.com/davidsss6/lab-natty-or-not/blob/main/video.mp4) 
 
 # Pedro e a IA Revolucionária: A história
 

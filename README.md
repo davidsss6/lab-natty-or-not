@@ -17,5 +17,8 @@ A criação do conteúdo envolveu várias etapas:
 ## 🚀 Resultados
 O projeto resultou em uma história cativante, ilustrada e acompanhada de um vídeo de apresentação. As tecnologias de IA utilizadas permitiram explorar a criatividade e a inovação, proporcionando uma experiência rica e imersiva.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Criar algo 'natty' com IA foi uma experiência desafiadora e gratificante. Foi fascinante ver como diferentes ferramentas de IA puderam colaborar para criar um projeto coeso e envolvente. A integração de texto, imagem e vídeo demonstrou o incrível potencial das tecnologias de IA na produção de conteúdo criativo.
+
+## 🤖 Ler o livro
+[Clique aqui para ler o Ebook](https://github.com/davidsss6/lab-natty-or-not/blob/main/Pedro_e_a_IA_Revolucionaria.md) 
